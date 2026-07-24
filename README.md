@@ -13,7 +13,7 @@ My app does not automatically collect crash reports.
 2. And also feel free to share feature requests on [Issues](https://github.com/YukiAttano/4chan-reader-issues/issues)
 3. Designs / Logos / etc. are also appreciated
 4. Please <ins>__check if there is an existing Issue__</ins> for your topic before creating a new one.
-5. If there is an existing issue, put a _Thumbs Up_ on the issue (that way, I can work on the most requested features first)
+5. If there is an existing issue, put a _Thumbs Up_ 👍 on the issue (that way, I can work on the most requested features first)
 6. I am only one person; I do this in my free time; I don't get any money out of this; So please be kind.
 
 I am not affiliated in any way with 4chan.
