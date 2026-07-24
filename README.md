@@ -1,4 +1,4 @@
-# Memeozer 4chan reader issues
+# Memeozer 4chan viewer issues
 Issue board for my 4chan reader (Third party application - not official 4chan app)
 
 Hello peoples
@@ -7,7 +7,7 @@ Because I've personally struggled with navigating through the web page of 4chan.
 and found the existing App solutions too hard for unexperienced users (like myself),
 I've created this App.
 
-My app does not collect your user data which includes crash reports too.
+My app does not automatically collect crash reports.
 
 1. Therefor, I need your help to identify bugs on [Issues](https://github.com/YukiAttano/4chan-reader-issues/issues)
 2. And also feel free to share feature requests on [Issues](https://github.com/YukiAttano/4chan-reader-issues/issues)
