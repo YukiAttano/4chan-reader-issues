@@ -1,5 +1,5 @@
 # Memeozer 4chan viewer issues
-Issue board for my 4chan reader (Third party application - not official 4chan app)
+Issue board for my 4chan viewer (Third party application - not official 4chan app)
 
 Hello peoples
 
